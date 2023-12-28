@@ -1,0 +1,39 @@
+.h {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid black;
+}
+header img{
+      height: 100px;
+      
+}
+
+div img{
+
+    height: 265px;
+    
+}
+
+*{
+    border: 1px solid cyan;
+}
+
+h1{
+    display: inline;
+}
+
+body{
+    border: none;
+    margin: 0;
+}
+
+span{
+    
+
+}
